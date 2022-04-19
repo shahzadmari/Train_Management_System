@@ -21,7 +21,7 @@ A desktop app made using Java and mySQL for booking train tickets and SMTP proto
    
 3. Pawang Rai
    20SW037 - @Pawang-Rai <br>
-   <i>UI Designer and Developer</i>
+   <i>UI Designer, Developer , Data Retreival, insertion , updation operations in Application</i>
    
 4. Aisha Channa
    20SW122 - @Aisha-Channa <br>
