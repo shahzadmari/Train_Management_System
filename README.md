@@ -13,7 +13,7 @@ A desktop app made using Java and mySQL for booking train tickets and SMTP proto
 
 1. Shahzad Haider (Lead)
    20SW067 - @Shahzad-Haider <br>
-   <i>Poject Developerr</i>
+   <i>Poject Developer</i>
    
 2. Zameer Ali
    20SW046 - @zami-dot <br>
