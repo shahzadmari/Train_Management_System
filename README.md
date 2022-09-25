@@ -13,20 +13,13 @@ A desktop app made using Java and mySQL for booking train tickets and SMTP proto
 
 1. Shahzad Haider (Lead)
    20SW067 - @Shahzad-Haider <br>
-   <i>Project Manager and Environment Tools and Event Handler</i>
+   <i>Poject Developerr</i>
    
 2. Zameer Ali
    20SW046 - @zami-dot <br>
-   <i>Game Developer and mail handler </i>
+   <i>Game Developer </i>
    
-3. Pawang Rai
-   20SW037 - @Pawang-Rai <br>
-   <i>UI Designer, Developer , Data Retreival, insertion , updation operations in Application</i>
-   
-4. Aisha Channa
-   20SW122 - @Aisha-Channa <br>
-   <i>About Us designer, Tester, Schema and table creater</i>
-   
+
    # Project Snaps :
    # 1 - Home Screen
    ![homescreen](https://user-images.githubusercontent.com/92587193/163663272-c3f40e8d-9579-4215-b89d-ab35315b6ba0.PNG) 
